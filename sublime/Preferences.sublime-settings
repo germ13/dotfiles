@@ -1,0 +1,10 @@
+{
+    "color_scheme": "Packages/User/Colorsublime/themes/BatmanLight.tmTheme",
+    "font_size": 16,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true
+}
