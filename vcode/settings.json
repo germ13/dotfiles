@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "editor.fontFamily": "Source Code Pro",
+  "editor.fontSize": 16,
+  "editor.glyphMargin": true,
+  "editor.insertSpaces": true,
+  "editor.renderWhitespace": true,
+  "editor.tabSize": 2,
+  "files.trimTrailingWhitespace": false
+}

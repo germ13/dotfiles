@@ -1,0 +1,33 @@
+{
+  // Place your snippets for JavaScriptReact here. Each snippet is defined under a snippet name and has a prefix, body and 
+  // description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+  // $1, $2 for tab stops, ${id} and ${id:label} and ${1:label} for variables. Variables with the same id are connected.
+  // Example:
+  "Print to console": {
+    "prefix": "log",
+    "body": [
+      "console.log('$1');",
+      "$2"
+    ],
+    "description": "Log output to console"
+  },
+  "Create a jsx class":{
+    "prefix": "class",
+    "body": [
+      "export class $1 extends React.Component {",
+      "  constructor(props){",
+      "    super(props){",
+      "    this.state = { $2: $3 };",
+      "  }",
+      "",
+      "  render(){",
+      "    return (",
+      "      <div>",
+      "        $4",
+      "      </div>",
+      "    );",
+      "  }"
+    ],
+    "description": "class teplate for react component"
+  } 
+}

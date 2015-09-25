@@ -4,7 +4,21 @@ dotfiles
 My dot files for various programs under various OSes
 
 
-## xfce4
+Visual Studio Code
+------------------
+Microsoft's 'Code' IDE
+
+Folder `vcode`
+
+### Snippets
+- Javascript React
+
+### Settings
+Personalized Settings
+
+
+xfce4
+--------
 Settings for Xubuntu
 
 ### terminal
