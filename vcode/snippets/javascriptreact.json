@@ -16,7 +16,7 @@
     "body": [
       "export class $1 extends React.Component {",
       "  constructor(props){",
-      "    super(props){",
+      "    super(props);",
       "    this.state = { $2: $3 };",
       "  }",
       "",
@@ -26,7 +26,8 @@
       "        $4",
       "      </div>",
       "    );",
-      "  }"
+      "  }",
+      "}"
     ],
     "description": "class teplate for react component"
   } 
