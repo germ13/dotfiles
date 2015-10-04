@@ -17,3 +17,7 @@ Location of files:
 ### Javascript React Snippets
 Filename: `javascriptreact.json`  
 - `class` : creates a es6 React.Component class
+
+### HTML Snippets
+Filename: `html.json`  
+- `html5` : Boilerplate for html file

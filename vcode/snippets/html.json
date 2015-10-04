@@ -1,0 +1,22 @@
+{
+  "Html Boilerplate": {
+    "prefix": "html5",
+    "body": [
+      "<!doctype html>",
+      "<html>",
+      "<head>",
+      "  <meta charset='utf-8'>",
+      "  <title>$1</title>",
+      "</head>",
+      "<body>",
+      "  <div>",
+      "    $3",
+      "  </div>",
+      "",
+      "  <script type='text/javascript' src='$2'></script>",
+      "</body>",
+      "</html>"
+    ],
+    "description": "html5 boilerplate"
+  }
+}

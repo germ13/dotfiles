@@ -12,6 +12,7 @@ Folder `vcode`
 
 ### Snippets
 - Javascript React
+- Html Boilerplate
 
 ### Settings
 Personalized Settings
