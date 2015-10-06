@@ -27,3 +27,8 @@ Settings for Xubuntu
 File *terminalrc* sets custom color theme.
 `~/.config/xfce4/terminal/`*`terminalrc`*
 
+
+conemu
+------
+Settings file
+`~\AppData\Roaming\ConEmu.xml`
